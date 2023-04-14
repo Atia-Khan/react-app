@@ -1,0 +1,14 @@
+# node
+node_modules/
+# node
+node_modules
+
+# mac
+# mac
+.DS_Store
+
+# IntelliJ
+*.ipr
+*.iws
+*.iml
+.idea/
